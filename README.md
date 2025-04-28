@@ -33,6 +33,10 @@ I'm constantly working on small projects to apply and expand my skills, and I'm 
 
 ---
 
+🌱 **Currently Learning:**  
+- Advanced ML (NLP, Computer Vision)  
+- TensorFlow/PyTorch
+
 ## 🛠️ Technologies and Tools
 - **Languages**: Python  
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
